@@ -26,11 +26,14 @@ at a glance on a phone, and the last panel invites quote-posts.
 Post `meme.png` from a public X account. The post's own text must carry
 `@_myronera` and one of the entrant's play codes (`makefun-` + three words,
 from `GET /api/competitions/u-myronera-post-the-meme-win-the-feed-2de960bf/play-code`).
-Suggested post text (swap in the real play code before posting):
+Suggested post text (exact — post it verbatim with the meme attached):
 
-    the make.fun cycle @_myronera
+    the make.fun cycle
 
-    (meme attached)
+    I'll just enter ONE bounty → it's just a $5 one-liner → RANK #4,821 → okay. ONE more bounty.
+
+    build. enter. win. repeat. @_myronera
+    makefun-baker-pony-egret
 
 Keep the post up and the account public until the results are out. Never buy
 likes, reposts or quotes, and never use bots or engagement pods.
